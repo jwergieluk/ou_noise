@@ -22,5 +22,10 @@ setup(
     packages=['ou_noise', ],
     url='',
     install_requires=get_requirements(),
-    description='Stochastic processes simulators'
+    description='Stochastic processes simulators',
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+        "Operating System :: OS Independent",
+    ],
 )
