@@ -18,7 +18,7 @@ The following IPython session demonstrates the package usage.
 
     t = numpy.arange(0, 100, 0.01)
     # simulate a path of the OU process on a given grid t, starting with x_0 = 0.8
-    ou.path(0.8, t, 2.0, 0.5, 0.05)                                           
+    x = ou.path(0.8, t, 2.0, 0.5, 0.05)                                           
     plt.plot(t,x)
 
     params = ou.mle(t, x)
