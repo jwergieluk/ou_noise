@@ -7,6 +7,9 @@ Ornstein-Uhlenbeck processes.
 
 Clone the repository and install the package with `pip install .`
 
+Or 
+      pip install git+https://github.com/jwergieluk/ou_noise.git
+
 ## Usage
 
 The following IPython session demonstrates the package usage.
