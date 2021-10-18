@@ -8,7 +8,8 @@ Ornstein-Uhlenbeck processes.
 Clone the repository and install the package with `pip install .`
 
 Or 
-      pip install git+https://github.com/jwergieluk/ou_noise.git
+
+       pip install git+https://github.com/jwergieluk/ou_noise.git
 
 ## Usage
 
